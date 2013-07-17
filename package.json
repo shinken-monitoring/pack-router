@@ -4,7 +4,7 @@
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-router",
 	"author": "Jean Gabes",
-	"description": "",
+	"description": "Generic pack for router checks",
 	"contributors": [
 	  {
 		"name": "Jean Gabes",
@@ -18,6 +18,8 @@
 	"repository": "https://github.com/shinken-monitoring/pack-router",
 	"keywords": [
 	  "pack",
+	  "network",
+	  "router"
 	  
 	],
 	"dependencies": {
